@@ -1,11 +1,11 @@
 # Quantum Computing Frameworks
 pennylane>=0.25.0
 qiskit>=0.34.0
-tensorflow-quantum>=0.7.0
+tensorflow-quantum==0.6.0 # Ajustez en fonction des versions compatibles
 
 # Deep Learning
 torch>=1.9.0
-tensorflow>=2.8.0
+tensorflow==2.20.0
 
 # Data Science & Analysis
 numpy>=1.21.0

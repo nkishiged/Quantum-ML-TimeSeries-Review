@@ -1,0 +1,16 @@
+# Requêtes de Recherche Principales
+
+## IEEE Xplore
+(("quantum machine learning" OR QML) AND ("time series" OR forecasting) AND (QSVM OR QNN OR QELM OR QRC OR VQC))
+
+## Scopus
+TITLE-ABS-KEY(("quantum machine learning") AND ("time series" OR "temporal forecasting") AND (QSVM OR QNN OR QELM OR QRC OR VQC)) AND PUBYEAR > 2013
+
+## Web of Science
+TS=(("quantum machine learning") AND ("time series" OR forecasting) AND (quantum OR QML))
+
+## arXiv
+('quantum machine learning" AND "time series") OR ("quantum" AND forecasting) cat: cs.LG, quant-ph, stat.ML
+
+## SpringerLink
+quantum AND ("time series" OR forecasting) AND (QNN OR QSVM OR "reservoir" OR QELM) AND (hybrid OR variational)
