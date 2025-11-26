@@ -1,0 +1,26 @@
+# Quantum Computing Frameworks
+pennylane>=0.25.0
+qiskit>=0.34.0
+tensorflow-quantum>=0.7.0
+
+# Deep Learning
+torch>=1.9.0
+tensorflow>=2.8.0
+
+# Data Science & Analysis
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter & Documentation
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipykernel>=6.0.0
+
+# Utilities
+requests>=2.25.0
+tqdm>=4.60.0
+pyyaml>=5.4.0
